@@ -1,0 +1,19 @@
+.h2{
+    text-align: center;
+}
+.h4{
+    text-align: center;
+}
+.SĐT{
+    text-align:right;
+    border: 1px solid black; 
+    margin-left: 1315px; 
+    position: fixed;
+}
+
+img{
+    border-radius: 50%; 
+    display: block; margin-left: auto; 
+    margin-right: auto; 
+    border: solid white 5px;
+}
